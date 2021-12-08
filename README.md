@@ -24,6 +24,12 @@
 - Twitter: [@victoirBarh](https://twitter.com/)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/victoir-barh)
 
+## Author 2
+
+- GitHub: [@githubhandle](https://github.com/Mithi-code)
+- Twitter: [@twitterhandle](https://twitter.com/LazyMithlesh)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mithlesh-kumar-564a97221/)
+
 ## Getting Started
 
 ### Prerequisites:
