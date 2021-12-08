@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/vic778/To-Do-List#readme",
   "dependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.16.0",
     "bootstrap": "^5.1.0",
     "gh-pages": "^3.2.3",
     "jquery": "^3.6.0",
