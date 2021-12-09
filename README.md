@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
->In this project, we had written unit tests for the To Do list application. The test project has been divided into two parts. In part 1, we tested the functions responsible for adding and removing items from the list. In the part.
+In this part of the testing project, we have tested functions responsible for the status and content updates. we also have tested the order re-position of items in the list upon drag/drop actions.
 
 
 ![](https://github.com/vic778/to-do-list-reviewer/blob/Test/img/test.screen.png)
